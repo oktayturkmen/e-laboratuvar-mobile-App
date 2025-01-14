@@ -63,18 +63,10 @@ Bu projenin temel amacı, laboratuvar süreçlerini dijitalleştirerek hızlı, 
 - Firebase hesabı  
 
 ### **Adımlar**  
-1. Depoyu klonlayın:  
+1. Depoyu klonlayın ve bağımlılıkları yükleyin:  
    ```bash
-   git clone https://github.com/osmntahir/E-LaboratorySystem.git
-   cd E-LaboratorySystem
-
-2.Bağımlılıkları yükleyin: 
-   ```bash
-  npm install
-
-3.Firebase yapılandırmasını tamamlayın ve firebaseConfig.js dosyasını düzenleyin.
- 
-4.Uygulamayı çalıştırın:
-  ```bash
-  npx expo start
+   git clone https://github.com/oktayturkmen/e-laboratuvar-mobile-App.git
+   cd e-laboratuvar-mobile-App
+   cd Mobil-App
+   npm install
 
