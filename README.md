@@ -67,3 +67,12 @@ Bu projenin temel amacı, laboratuvar süreçlerini dijitalleştirerek hızlı, 
    ```bash
    git clone https://github.com/osmntahir/E-LaboratorySystem.git
    cd E-LaboratorySystem
+### **2.Bağımlılıkları yükleyin:** 
+   ```bash
+  npm install
+
+### 3.Firebase yapılandırmasını tamamlayın ve firebaseConfig.js dosyasını düzenleyin.
+### 4.Uygulamayı çalıştırın:
+  ```bash
+  npx expo start
+
