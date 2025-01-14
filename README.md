@@ -69,5 +69,9 @@ Bu projenin temel amacı, laboratuvar süreçlerini dijitalleştirerek hızlı, 
    cd e-laboratuvar-mobile-App
    npm install
 
-2.
+2.irebase yapılandırmasını tamamlayın ve firebaseConfig.js dosyasını düzenleyin.
+
+3.Uygulamayı çalıştırın:
+```bash
+   npm start
 
