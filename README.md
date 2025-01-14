@@ -69,3 +69,5 @@ Bu projenin temel amacı, laboratuvar süreçlerini dijitalleştirerek hızlı, 
    cd e-laboratuvar-mobile-App
    npm install
 
+2.
+
