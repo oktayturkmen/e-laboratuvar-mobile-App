@@ -67,6 +67,5 @@ Bu projenin temel amacı, laboratuvar süreçlerini dijitalleştirerek hızlı, 
    ```bash
    git clone https://github.com/oktayturkmen/e-laboratuvar-mobile-App.git
    cd e-laboratuvar-mobile-App
-   cd Mobil-App
    npm install
 
